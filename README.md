@@ -57,8 +57,7 @@ side menu             |  dashboard
 <details>
  <summary>checkout success</summary>
  <p>
-   
-![checkout_success_large](https://user-images.githubusercontent.com/38830527/57897996-46e44980-7825-11e9-8247-c0d97cfc39e9.PNG)
+   ![checkout-1](https://user-images.githubusercontent.com/26815113/86493225-9149c200-bd68-11ea-9b9e-1673649b1be6.PNG)
    
 </p>
 </details>
