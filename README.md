@@ -1,6 +1,5 @@
-# Full stack ecommerce online store application
+# React ecommerce online store application
 
-#### back-end code [click here](https://github.com/levelopers/Ecommerce-Nodejs)
 
 ## General Info 
 
@@ -14,12 +13,16 @@ back-end: Node.js, Express, Restful API, paypal-sdk, mongodb, mongoose, jwt(json
 <details>
  <summary>dashboard</summary>
  <p>
-   
-![dashboard_large](https://ibb.co/ChCBPmLhttps://ibb.co/M2J09YY)
+  ![dashboard](https://user-images.githubusercontent.com/26815113/86492760-1633dc00-bd67-11ea-9358-1e69c608a99d.PNG) 
+  
 - - - - -
 side menu             |  dashboard
 :-------------------------:|:-------------------------:
-![side_menu_sm](https://www.dropbox.com/s/62uq84ha6ykcday/side-menu.PNG?dl=0)  |  ![dashboard_sm](https://www.dropbox.com/s/6kl550b6l7has0v/dashboard-2.PNG?dl=0)
+
+![side-menu](https://user-images.githubusercontent.com/26815113/86492910-70cd3800-bd67-11ea-86ca-9e1a3e81aabd.PNG)
+
+  |  ![dashboard-2](https://user-images.githubusercontent.com/26815113/86492953-978b6e80-bd67-11ea-8ecb-d6886aeffa2a.PNG)
+
 </p>
 </details>
 
@@ -27,7 +30,7 @@ side menu             |  dashboard
  <summary>product-overview</summary>
  <p>
    
-   ![product_overview_large](https://www.dropbox.com/s/zj13nxcuoj0pc39/product-overview.PNG?dl=0)
+   ![product-overview](https://user-images.githubusercontent.com/26815113/86492980-b427a680-bd67-11ea-9c6c-727547ccae8d.PNG)
 </p>
 </details>
 
@@ -35,7 +38,7 @@ side menu             |  dashboard
  <summary>checkout</summary>
  <p>
    
-![checkout_large](https://www.dropbox.com/s/5ej8whdobd3w6yr/checkout-1.PNG?dl=0)
+!![checkout-1](https://user-images.githubusercontent.com/26815113/86493013-cb669400-bd67-11ea-8978-3c30b6c3e0d4.PNG)
    
 </p>
 </details>
@@ -45,7 +48,7 @@ side menu             |  dashboard
  <summary>checkout confirm</summary>
  <p>
    
-![checkout_confirm_large](https://www.dropbox.com/s/qvzxown17ladddq/confirm.PNG?dl=0)
+![confirm](https://user-images.githubusercontent.com/26815113/86493044-e507db80-bd67-11ea-9276-00b135dc77ba.PNG)
    
 </p>
 </details>
@@ -64,8 +67,9 @@ side menu             |  dashboard
 <details>
  <summary>login</summary>
  <p>
-   
-![login_large](https://www.dropbox.com/s/dr7c8sj5o5v090n/login.PNG?dl=0)
+  
+  ![login](https://user-images.githubusercontent.com/26815113/86493097-1e404b80-bd68-11ea-99ac-1015897727cc.PNG)
+
    
 </p>
 </details>
