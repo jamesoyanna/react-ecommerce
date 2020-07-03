@@ -15,7 +15,7 @@ back-end: Node.js, Express, Restful API, paypal-sdk, mongodb, mongoose, jwt(json
  <summary>dashboard</summary>
  <p>
    
-![dashboard_large](https://www.dropbox.com/s/2ava04nm7ka9c60/dashboard.PNG?dl=0)
+![dashboard_large](https://ibb.co/ChCBPmLhttps://ibb.co/M2J09YY)
 - - - - -
 side menu             |  dashboard
 :-------------------------:|:-------------------------:
