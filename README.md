@@ -37,8 +37,8 @@ side menu             |  dashboard
 <details>
  <summary>checkout</summary>
  <p>
-   
-!![checkout-1](https://user-images.githubusercontent.com/26815113/86493013-cb669400-bd67-11ea-8978-3c30b6c3e0d4.PNG)
+   ![checkout-1](https://user-images.githubusercontent.com/26815113/86493225-9149c200-bd68-11ea-9b9e-1673649b1be6.PNG)
+
    
 </p>
 </details>
